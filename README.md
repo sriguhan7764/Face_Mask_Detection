@@ -30,3 +30,4 @@ numpy
 
 > Note: Pre-trained model and face detection files are placed under `face_detector/`.
 
+Credits for pretrained model : https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/mask_detector.model
